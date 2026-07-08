@@ -5,7 +5,8 @@
 ![Fake News App Screenshot](app_screenshot.png)
 
 ## App Logo
-<p align="center"><img src="assets/logo.png" alt="Fake News Detector Logo" width="180"></p>(logo.png)
+<p align="center"><img src="assets/logo.png" alt="Fake News Detector Logo" width="180"></p>
+
 
 A Machine Learning based web application that detects whether a news article is **Fake** or **Real** using Natural Language Processing (NLP) techniques.
 
