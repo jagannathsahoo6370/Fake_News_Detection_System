@@ -1,0 +1,84 @@
+/* Main Background */
+.stApp {
+    background-color: #0E1117;
+    color: #FFFFFF;
+}
+
+/* Headings */
+h1, h2, h3 {
+    color: #00C8FF !important;
+}
+
+/* Paragraphs & Labels */
+p, label, div {
+    color: #FFFFFF;
+}
+
+/* Sidebar */
+[data-testid="stSidebar"] {
+    background-color: #161B22;
+}
+
+[data-testid="stSidebar"] * {
+    color: white !important;
+}
+
+/* Text Area */
+.stTextArea textarea {
+    background-color: #1E1E1E !important;
+    color: white !important;
+    border: 2px solid #00C8FF !important;
+    border-radius: 10px;
+}
+
+/* Button */
+.stButton > button {
+    background-color: #00C8FF;
+    color: black;
+    font-weight: bold;
+    border-radius: 8px;
+    border: none;
+    width: 100%;
+}
+
+.stButton > button:hover {
+    background-color: #0099CC;
+    color: white;
+}
+
+/* Success Box */
+[data-testid="stAlert"][kind="success"] {
+    background-color: #1B5E20;
+    color: white;
+}
+
+/* Error Box */
+[data-testid="stAlert"][kind="error"] {
+    background-color: #B71C1C;
+    color: white;
+}
+
+/* Info Box */
+[data-testid="stAlert"][kind="info"] {
+    background-color: #0D47A1;
+    color: white;
+}
+
+/* Warning Box */
+[data-testid="stAlert"][kind="warning"] {
+    background-color: #F57F17;
+    color: black;
+}
+
+/* Metrics */
+[data-testid="stMetric"] {
+    background-color: #1E293B;
+    padding: 15px;
+    border-radius: 12px;
+}
+
+/* Footer */
+.footer {
+    text-align: center;
+    color: gray;
+}
