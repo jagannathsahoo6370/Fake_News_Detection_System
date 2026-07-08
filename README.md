@@ -2,7 +2,7 @@
 
 ## Live App Preview
 
-![Fake News App Screenshot](app_screenshot.png)
+![Fake News App Screenshot](<img width="1536" height="1024" alt="app_screenshot" src="https://github.com/user-attachments/assets/eb6977e4-2ed3-4a0f-b279-d8e06bed7b31" />)
 
 A Machine Learning based web application that detects whether a news article is **Fake** or **Real** using Natural Language Processing (NLP) techniques.
 
@@ -107,7 +107,7 @@ fake_news_project/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/subhamkumarswain/fake_news_project.git
+git clone https://github.com/jagannathsahoo6370/Fake_News_Detection_System.git
 cd fake_news_project
 ```
 
@@ -182,7 +182,7 @@ This project demonstrates:
 
 ## 👨‍💻 Author
 
-**Subham Kumar Swain**  
+**Jagannath Sahoo**  
 B.Tech Student | Machine Learning Enthusiast  
 Passionate about AI, NLP, and real-world problem solving.
 
