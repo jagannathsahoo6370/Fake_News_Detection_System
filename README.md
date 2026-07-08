@@ -4,6 +4,9 @@
 
 ![Fake News App Screenshot](app_screenshot.png)
 
+## App Logo
+<p align="center"><img src="assets/logo.png" alt="Fake News Detector Logo" width="180"></p>(logo.png)
+
 A Machine Learning based web application that detects whether a news article is **Fake** or **Real** using Natural Language Processing (NLP) techniques.
 
 This project demonstrates end-to-end ML workflow including data preprocessing, model comparison, evaluation, and deployment using Streamlit.
