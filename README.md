@@ -2,7 +2,7 @@
 
 ## Live App Preview
 
-![Fake News App Screenshot](<img width="1536" height="1024" alt="app_screenshot" src="https://github.com/user-attachments/assets/eb6977e4-2ed3-4a0f-b279-d8e06bed7b31" />)
+![Fake News App Screenshot](app_screenshot.png)
 
 A Machine Learning based web application that detects whether a news article is **Fake** or **Real** using Natural Language Processing (NLP) techniques.
 
